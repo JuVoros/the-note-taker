@@ -6,6 +6,8 @@
 
 ## Description
 
+This site allows users to write, edit, save, and delete notes that can help with anything. The user needs to have node and npm installed to fully use this application.
+
 ## Table of Contents
 1. [Installation](#installation)
 4. [License](#license)
